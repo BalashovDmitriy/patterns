@@ -24,4 +24,3 @@
 - Стратегия(strategy)
 - Шаблонный метод(template_method)
 - Посетитель(visitor)
-- 1
